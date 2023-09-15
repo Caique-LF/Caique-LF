@@ -17,6 +17,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-LF&layout=donut&theme=transparent&title_color=00BFFF&text_color=FFFFFF) 
 
-
-![Snake animation](https://github.com/Caique-LF/Caique-LF/blob/output/github-contribution-grid-snake.svg)
-
