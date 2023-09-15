@@ -1,7 +1,7 @@
 # Desenvolvedor Back-end 👋
 
 ### Saudações, meu nome é Caique L. Fernandes, fique a vontade para me contatar. !
- Tenho interesse em atuar na área de programação, resolvendo problemas reais com tecnologias como javaScript, Nodejs, SQL, PostgresSQL, Git.
+ Tenho grande interesse em atuar na área de programação, solucionando problemas reais com tecnologias como JavaScript, Node.js, SQL, PostgreSQL e Git.
 
 - 🖥️ Atualmente, estou estudando Desenvolvimento Back-end na Cubos Academy.
 - 👥 Estou em busca de oportunidades para colaborar em projetos que resolvam desafios do mundo real, contribuindo para o meu crescimento como desenvolvedor.
