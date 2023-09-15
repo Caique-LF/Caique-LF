@@ -1,16 +1,22 @@
-### Hi there 👋
+# Desenvolvedor Back-end 👋
 
-<!--
-**Caique-LF/Caique-Lf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Saudações, meu nome é Caique L. Fernandes, fique a vontade para me contatar. !
+ Tenho interesse em atuar na área de programação, resolvendo problemas reais com tecnologias como javaScript, Nodejs, SQL, PostgresSQL, Git.
 
-Here are some ideas to get you started:
+- 🖥️ Atualmente, estou estudando Desenvolvimento Back-end na Cubos Academy.
+- 👥 Estou em busca de oportunidades para colaborar em projetos que resolvam desafios do mundo real, contribuindo para o meu crescimento como desenvolvedor.
+- 🏃 Determinado a perseguir meus objetivos com dedicação.
+- 🔋 Cheio de entusiasmo para encarar novos desafios.
+- 🤝 Embora possa parecer marrento à primeira vista, sou uma pessoa amigável e fácil de lidar.
+  
+## Ferramentas e Tecnologias 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000000) ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique-LF&show_icons=true&theme=transparent&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-LF&layout=donut&theme=transparent&title_color=00BFFF&text_color=FFFFFF) 
+
+
+![Snake animation](https://github.com/Caique-LF/Caique-LF/blob/output/github-contribution-grid-snake.svg)
+
