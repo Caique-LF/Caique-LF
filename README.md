@@ -8,6 +8,9 @@
 - 🏃 Determinado a perseguir meus objetivos com dedicação.
 - 🔋 Cheio de entusiasmo para encarar novos desafios.
 - 🤝 Embora possa parecer marrento à primeira vista, sou uma pessoa amigável e fácil de lidar.
+
+## Entre em contato comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caique-lima-developer)
   
 ## Ferramentas e Tecnologias 
 
