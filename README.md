@@ -10,7 +10,7 @@
 - 🤝 Embora possa parecer marrento à primeira vista, sou uma pessoa amigável e fácil de lidar.
 
 ## Entre em contato comigo
-[LinkedIn](www.linkedin.com/in/caique-lima-developer)
+![LinkedIn](www.linkedin.com/in/caique-lima-developer)
   
 ## Ferramentas e Tecnologias 
 
