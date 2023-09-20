@@ -1,6 +1,8 @@
 # Desenvolvedor Back-end 👋
 
-### Saudações, meu nome é Caique L. Fernandes, fique a vontade para me contatar. !
+### Saudações, meu nome é Caique L. Fernandes.
+
+ Natural de Jaru, Rondônia, sou apaixonado por moda de viola, casado e pai de Pedro. Em 2023, comecei a estudar programação na Cubos Academy, com foco em desenvolvimento Back-end. Meu objetivo é resolver problemas reais utilizando tecnologias como JavaScript, Node.js, SQL, PostgreSQL e Git. Desejo contribuir para projetos de desenvolvimento.
  Tenho grande interesse em atuar na área de programação, solucionando problemas reais com tecnologias como JavaScript, Node.js, SQL, PostgreSQL e Git.
 
 - 🖥️ Atualmente, estou estudando Desenvolvimento Back-end na Cubos Academy.
@@ -9,7 +11,7 @@
 - 🔋 Cheio de entusiasmo para encarar novos desafios.
 - 🤝 Embora possa parecer marrento à primeira vista, sou uma pessoa amigável e fácil de lidar.
 
-## Entre em contato comigo
+## Alguma dúvida? Fique a vontade para me contatar !
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-lima-developer/)
   
 ## Ferramentas e Tecnologias 
