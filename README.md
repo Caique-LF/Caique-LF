@@ -8,7 +8,7 @@ Natural de Jaru, Rondônia, sou um entusiasta da moda de viola, casado e pai de 
 - 👥 Em busca de oportunidades para colaborar em projetos que resolvam desafios do mundo real, contribuindo para o meu crescimento como desenvolvedor.
 - 🏃 Determinado a perseguir meus objetivos com dedicação.
 - 🔋 Cheio de entusiasmo para encarar novos desafios.
-- 🤝 Embora possa parecer marrento à primeira vista, sou uma pessoa amigável e fácil de lidar.
+- 🤝 Sou uma pessoa amigável e fácil de lidar.
 
 ## Alguma dúvida? Fique a vontade para me contatar !
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-lima-developer/)
