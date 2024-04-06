@@ -2,9 +2,9 @@
 
 ### Saudações, meu nome é Caique L. Fernandes.
 
-Natural de Jaru, Rondônia, sou um entusiasta da moda de viola, casado e pai de Pedro. Em 2023, iniciei minha jornada de estudos em programação na [Cubos Academy](https://cubos.academy/), com foco no desenvolvimento Back-end. Tenho um objetivo claro: solucionar problemas do mundo real, fazendo uso de tecnologias como JavaScript, Node.js, SQL, PostgreSQL e Git. Meu grande interesse é contribuir para a área de programação, aplicando essas habilidades.
+Natural de Jaru, Rondônia, sou um entusiasta da moda de viola, casado e pai do Pedro. Em 2023, iniciei minha jornada de estudos em programação na [Cubos Academy](https://cubos.academy/), com foco no desenvolvimento Back-end. Tenho um objetivo claro: solucionar problemas do mundo real, fazendo uso de tecnologias como JavaScript, Node.js, SQL, PostgreSQL e Git. Meu grande interesse é contribuir para a área de programação, aplicando essas habilidades.
 
-- 🖥️ Atualmente, estou estudando Desenvolvimento Back-end na Cubos Academy.
+- 🖥️ Atualmente, estou estudando Desenvolvimento Back-end.
 - 👥 Em busca de oportunidades para colaborar em projetos que resolvam desafios do mundo real, contribuindo para o meu crescimento como desenvolvedor.
 - 🏃 Determinado a perseguir meus objetivos com dedicação.
 - 🔋 Cheio de entusiasmo para encarar novos desafios.
