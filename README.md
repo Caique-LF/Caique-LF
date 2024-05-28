@@ -7,7 +7,7 @@ Natural de Jaru, Rondônia, sou um entusiasta da moda de viola, casado e pai do 
 - 🖥️ Atualmente, estou estudando Desenvolvimento Back-end.
 - 👥 Em busca de oportunidades para colaborar em projetos que resolvam desafios do mundo real, contribuindo para o meu crescimento como desenvolvedor.
 - 🏃 Determinado a perseguir meus objetivos com dedicação.
-- 🔋 Cheio de entusiasmo para encarar novos desafios.
+- 🔋 Entusiasmado para encarar novos desafios.
 - 🤝 Sou uma pessoa amigável e fácil de lidar.
 
 ## Alguma dúvida? Fique a vontade para me contatar !
