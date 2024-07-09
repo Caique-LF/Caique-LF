@@ -4,14 +4,21 @@
 
 Desenvolvedor Back-end com especialização em Express.js, NestJs, JavaScript, TypeScript, Node.js, API REST, SQL, PostgreSQL, Git, Prisma e JSON Web Token (JWT). Possuo sólida experiência comprovada no desenvolvimento de aplicações robustas e de alta performance. Promovo um ambiente colaborativo, lidando com impedimentos de forma clara e eficiente, e tenho habilidade na resolução de conflitos. Apaixonado por tecnologia, encontro no desenvolvimento uma forma de contribuir com soluções inovadoras, sempre focado em otimizar processos e fortalecer a colaboração em equipe.
 
-Habilidades :
-• Express.js | NestJs | JavaScript | TypeScript | Node.js | API REST
-• PostgresSQL | SQL | Prisma | Swagger API
-• JSON Web Token(JWT)| Bcrypt | JOI | Knex
-• Git | GitHub | GitFlow
-• Metodologias Ágeis | Scrum | Kanban
+## Habilidades
 
-## Alguma dúvida? Fique a vontade para me contatar !
+- **Frameworks e Linguagens**:
+  - Express.js | NestJs | JavaScript | TypeScript | Node.js | API REST
+- **Banco de Dados**:
+  - PostgreSQL | SQL | Prisma | Swagger API
+- **Autenticação e Segurança**:
+  - JSON Web Token (JWT) | Bcrypt | JOI | Knex
+- **Controle de Versão**:
+  - Git | GitHub | GitFlow
+- **Metodologias Ágeis**:
+  - Scrum | Kanban
+
+## Alguma dúvida? Fique à vontade para me contatar!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-lima-developer/)
   
 ## Ferramentas e Tecnologias 
