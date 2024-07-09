@@ -2,13 +2,14 @@
 
 ### Saudações, meu nome é Caique L. Fernandes.
 
-Natural de Jaru, Rondônia, sou um entusiasta da moda de viola, casado e pai do Pedro. Em 2023, iniciei minha jornada de estudos em programação na [Cubos Academy](https://cubos.academy/), com foco no desenvolvimento Back-end. Tenho um objetivo claro: solucionar problemas do mundo real, fazendo uso de tecnologias como JavaScript, Node.js, SQL, PostgreSQL e Git. Meu grande interesse é contribuir para a área de programação, aplicando essas habilidades.
+Desenvolvedor Back-end com especialização em Express.js, NestJs, JavaScript, TypeScript, Node.js, API REST, SQL, PostgreSQL, Git, Prisma e JSON Web Token (JWT). Possuo sólida experiência comprovada no desenvolvimento de aplicações robustas e de alta performance. Promovo um ambiente colaborativo, lidando com impedimentos de forma clara e eficiente, e tenho habilidade na resolução de conflitos. Apaixonado por tecnologia, encontro no desenvolvimento uma forma de contribuir com soluções inovadoras, sempre focado em otimizar processos e fortalecer a colaboração em equipe.
 
-- 🖥️ Atualmente, estou estudando Desenvolvimento Back-end.
-- 👥 Em busca de oportunidades para colaborar em projetos que resolvam desafios do mundo real, contribuindo para o meu crescimento como desenvolvedor.
-- 🏃 Determinado a perseguir meus objetivos com dedicação.
-- 🔋 Entusiasmado para encarar novos desafios.
-- 🤝 Sou uma pessoa amigável e fácil de lidar.
+Habilidades :
+• Express.js | NestJs | JavaScript | TypeScript | Node.js | API REST
+• PostgresSQL | SQL | Prisma | Swagger API
+• JSON Web Token(JWT)| Bcrypt | JOI | Knex
+• Git | GitHub | GitFlow
+• Metodologias Ágeis | Scrum | Kanban
 
 ## Alguma dúvida? Fique a vontade para me contatar !
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-lima-developer/)
